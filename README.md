@@ -1,1 +1,1 @@
-# iot-data-to-kafka
+# Generating IoT data into Kafka topic
