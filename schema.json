@@ -1,0 +1,13 @@
+{
+    "type": "record",
+    "name": "SmartSensorData", 
+    "namespace": "com.example",
+    "fields": [
+      { "name": "sensorId", "type": "string" },
+      { "name": "timestamp", "type": "long" },
+      { "name": "temperature", "type": "float" },
+      { "name": "humidity", "type": "float" },
+      { "name": "battery", "type": "float" },
+      { "name": "airQuality", "type": "float" }
+    ]
+  }
